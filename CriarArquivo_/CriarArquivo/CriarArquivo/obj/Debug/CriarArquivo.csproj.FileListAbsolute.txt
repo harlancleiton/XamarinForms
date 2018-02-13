@@ -1,0 +1,38 @@
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\CriarArquivo.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\CriarArquivo.pdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\PCLStorage.Abstractions.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\PCLStorage.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\PCLStorage.xml
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\PCLStorage.Abstractions.xml
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\CriarArquivo\CriarArquivo\CriarArquivo\obj\Debug\CriarArquivo.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\CriarArquivo\CriarArquivo\CriarArquivo\obj\Debug\CriarArquivo.csproj.CoreCompileInputs.cache
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\CriarArquivo\CriarArquivo\CriarArquivo\obj\Debug\CriarArquivo.MainPage.xaml.g.cs
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\CriarArquivo\CriarArquivo\CriarArquivo\obj\Debug\CriarArquivo.App.xaml.g.cs
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\CriarArquivo\CriarArquivo\CriarArquivo\obj\Debug\CriarArquivo.dll
+C:\Users\Harlan\OneDrive\Estudos\Cursos Onlines\Udemy\Xamarin\CriarArquivo\CriarArquivo\CriarArquivo\obj\Debug\CriarArquivo.pdb
+C:\Users\Harlan\Desktop\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\CriarArquivo.dll
+C:\Users\Harlan\Desktop\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\CriarArquivo.pdb
+C:\Users\Harlan\Desktop\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\PCLStorage.Abstractions.dll
+C:\Users\Harlan\Desktop\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\PCLStorage.dll
+C:\Users\Harlan\Desktop\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Harlan\Desktop\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Harlan\Desktop\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Harlan\Desktop\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\PCLStorage.xml
+C:\Users\Harlan\Desktop\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\PCLStorage.Abstractions.xml
+C:\Users\Harlan\Desktop\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Harlan\Desktop\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Harlan\Desktop\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Harlan\Desktop\CriarArquivo\CriarArquivo\CriarArquivo\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Harlan\Desktop\CriarArquivo\CriarArquivo\CriarArquivo\obj\Debug\CriarArquivo.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Desktop\CriarArquivo\CriarArquivo\CriarArquivo\obj\Debug\CriarArquivo.csproj.CoreCompileInputs.cache
+C:\Users\Harlan\Desktop\CriarArquivo\CriarArquivo\CriarArquivo\obj\Debug\CriarArquivo.MainPage.xaml.g.cs
+C:\Users\Harlan\Desktop\CriarArquivo\CriarArquivo\CriarArquivo\obj\Debug\CriarArquivo.App.xaml.g.cs
+C:\Users\Harlan\Desktop\CriarArquivo\CriarArquivo\CriarArquivo\obj\Debug\CriarArquivo.dll
+C:\Users\Harlan\Desktop\CriarArquivo\CriarArquivo\CriarArquivo\obj\Debug\CriarArquivo.pdb

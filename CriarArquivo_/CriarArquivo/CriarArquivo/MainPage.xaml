@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CriarArquivo"
+             x:Class="CriarArquivo.MainPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="LblArquivo"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Button Text="Ler arquivo" x:Name="BtnLerArquivo" Clicked="BtnLerArquivo_OnClicked" />
+            <Entry x:Name="ConteudoArquivo" />
+           <Button Text="Gravar" x:Name="BtnGravarArquivo" Clicked="BtnGravarArquivo_OnClicked" /> 
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
