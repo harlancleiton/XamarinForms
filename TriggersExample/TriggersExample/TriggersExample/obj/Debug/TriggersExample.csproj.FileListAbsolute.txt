@@ -1,0 +1,16 @@
+C:\Users\Harlan\Desktop\TriggersExample\TriggersExample\TriggersExample\bin\Debug\TriggersExample.dll
+C:\Users\Harlan\Desktop\TriggersExample\TriggersExample\TriggersExample\bin\Debug\TriggersExample.pdb
+C:\Users\Harlan\Desktop\TriggersExample\TriggersExample\TriggersExample\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Harlan\Desktop\TriggersExample\TriggersExample\TriggersExample\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Harlan\Desktop\TriggersExample\TriggersExample\TriggersExample\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Harlan\Desktop\TriggersExample\TriggersExample\TriggersExample\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Harlan\Desktop\TriggersExample\TriggersExample\TriggersExample\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Harlan\Desktop\TriggersExample\TriggersExample\TriggersExample\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Harlan\Desktop\TriggersExample\TriggersExample\TriggersExample\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Harlan\Desktop\TriggersExample\TriggersExample\TriggersExample\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Harlan\Desktop\TriggersExample\TriggersExample\TriggersExample\obj\Debug\TriggersExample.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Desktop\TriggersExample\TriggersExample\TriggersExample\obj\Debug\TriggersExample.csproj.CoreCompileInputs.cache
+C:\Users\Harlan\Desktop\TriggersExample\TriggersExample\TriggersExample\obj\Debug\TriggersExample.MainPage.xaml.g.cs
+C:\Users\Harlan\Desktop\TriggersExample\TriggersExample\TriggersExample\obj\Debug\TriggersExample.App.xaml.g.cs
+C:\Users\Harlan\Desktop\TriggersExample\TriggersExample\TriggersExample\obj\Debug\TriggersExample.dll
+C:\Users\Harlan\Desktop\TriggersExample\TriggersExample\TriggersExample\obj\Debug\TriggersExample.pdb

@@ -1,0 +1,144 @@
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\ListViewAvancado.Android.csprojResolveAssemblyReference.cache
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.Android.dll
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.Android.pdb
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.Android.apk
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.Android-Signed.apk
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\FormsViewGroup.dll
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.dll
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Core.dll
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.pdb
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\FormsViewGroup.pdb
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Core.xml
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\ListViewAvancado.Android.dll
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\ListViewAvancado.Android.pdb
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\android\bin\ListViewAvancado.Android.apk
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\drawable\icon.png
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\drawable-hdpi\icon.png
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\drawable-xhdpi\icon.png
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\layout\tabbar.xml
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\layout\toolbar.xml
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\values\styles.xml
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\R.cs.flag
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\uploadflags.txt
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.dll.mdb
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.Android.dll.mdb
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\android\assets\ListViewAvancado.Android.dll.mdb
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\android\assets\ListViewAvancado.dll.mdb
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\Projects\Xamarin Forms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.Android.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.Android.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.Android.apk
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.Android-Signed.apk
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\ListViewAvancado.Android.csprojResolveAssemblyReference.cache
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\ListViewAvancado.Android.csproj.CoreCompileInputs.cache
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\ListViewAvancado.Android.dll
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\ListViewAvancado.Android.pdb
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\android\bin\ListViewAvancado.Android.apk
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\values\styles.xml
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\R.cs.flag
+C:\Users\Harlan\Google Drive\Estudos\Cursos Onlines\Udemy\XamarinForms\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\uploadflags.txt
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.Android.dll
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.Android.pdb
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.Android.apk
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.Android-Signed.apk
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\FormsViewGroup.dll
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.dll
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Core.dll
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Platform.dll
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.pdb
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.dll.mdb
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\FormsViewGroup.pdb
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Core.xml
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\ListViewAvancado.Android.csprojResolveAssemblyReference.cache
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\ListViewAvancado.Android.csproj.CoreCompileInputs.cache
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\ListViewAvancado.Android.dll
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\ListViewAvancado.Android.pdb
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\android\bin\ListViewAvancado.Android.apk
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\drawable\icon.png
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\drawable-hdpi\icon.png
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\drawable-xhdpi\icon.png
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\layout\tabbar.xml
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\layout\toolbar.xml
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\res\values\styles.xml
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\R.cs.flag
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\uploadflags.txt
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\bin\Debug\ListViewAvancado.Android.dll.mdb
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\android\assets\ListViewAvancado.Android.dll.mdb
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\android\assets\ListViewAvancado.dll.mdb
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\ListViewAvancado\ListViewAvancado\ListViewAvancado.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MeuBD"
+             x:Class="MeuBD.MainPage">
+    <ContentPage.Content>
+        <StackLayout Padding="30" Spacing="30">
+            <Entry x:Name="Nome" Placeholder="Nome"></Entry>
+            <Entry x:Name="Email" Placeholder="Email"></Entry>
+            <Entry x:Name="Telefone" Placeholder="Telefone"></Entry>
+            <Button x:Name="BtnSalvar" Text="Salvar" Clicked="SalvarClicked"></Button>
+            
+            <ListView x:Name="ListaContatos"></ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

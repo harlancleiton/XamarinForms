@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:RealmDB"
+             x:Class="RealmDB.MainPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout>
+                <Entry x:Name="Nome" Text="{Binding ItemModelAtual.Nome}" Keyboard="Text" Placeholder="Digite o item" />
+                <Entry x:Name="Quantidade" Text="{Binding ItemModelAtual.Quantidade}" Keyboard="Numeric" Placeholder="Digite a quantidade" />
+                <Button x:Name="BtnAdicionar" Command="{Binding SalvarItemCommand}" Text="Adicionar" />
+            </StackLayout>
+            <StackLayout>
+                <ListView x:Name="ListaItens" ItemsSource="{Binding ItemModels}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell Text="{Binding Nome}" Detail="{Binding Quantidade}"></TextCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

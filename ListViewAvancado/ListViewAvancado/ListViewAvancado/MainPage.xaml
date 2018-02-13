@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ListViewAvancado"
+             xmlns:templates="clr-namespace:ListViewAvancado.Templates"
+             x:Class="ListViewAvancado.MainPage">
+    
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <templates:SeletorTemplate x:Key="SeletorTemplate" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView x:Name="Lista"
+                      IsGroupingEnabled="True"
+                      ItemTemplate="{StaticResource Key=SeletorTemplate}"
+                      GroupDisplayBinding="{Binding Titulo}"
+                      GroupShortNameBinding="{Binding TituloCurto}"> <!-- Grupo -->
+                <ListView.Header>
+                    <!-- Cabeçalho da ListView -->
+                    <Label Text="Cabeçalho da ListView!"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Center" />
+                </ListView.Header>
+                <ListView.Footer>
+                    <!-- Rodapé da ListView -->
+                    <Label Text="Rodapé da ListView"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Center" />
+                </ListView.Footer>
+                <ListView.GroupHeaderTemplate>
+                    <!-- Grupo -->
+                    <DataTemplate>
+                        <ViewCell>
+                            <!-- Personalizando Exibição Grupo -->
+                            <StackLayout Margin="15,0,0,0">
+                                <Label Text="{Binding Titulo}" TextColor="DodgerBlue" />
+                                <Label Text="{Binding Descricao}" TextColor="LightSkyBlue" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.GroupHeaderTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
